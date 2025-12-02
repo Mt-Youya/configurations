@@ -1,0 +1,8 @@
+[project]
+name = "configuration-python"
+
+
+dependecies = [
+    "pyautogui",
+    "pynput",
+]
